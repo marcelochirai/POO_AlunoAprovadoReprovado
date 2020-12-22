@@ -1,0 +1,2 @@
+# POO_AlunoAprovadoReprovado
+Fazer um programa para ler o nome de um aluno e as três notas que ele obteve no três trimestres do ano (o máximo de pontuação em cada trimestre são 30 no primeiro trimestre e 35 nos demais). Ao final, mostrar qual a nota final do aluno no ano e se exibir se ele foi APROVADO ou REPROVADO. Caso o aluno seja REPROVADO mostrar quantos pontos faltam para sua aprovação (valor mínimo 60 pontos).
